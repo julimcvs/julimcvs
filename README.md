@@ -33,6 +33,7 @@ Aprendendo a codar desde 2021, apaixonado por desenvolvimento Back-End, com expe
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/julimcvs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/júlio-césar-vieira-santos-11a844242/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
