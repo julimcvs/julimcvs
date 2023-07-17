@@ -1,10 +1,11 @@
-Oi! 👋 Meu nome é Júlio César
+Hi! 👋 My name is Júlio César
 ============================
 
-Desenvolvedor Web Full Stack
+Full Stack Web Developer
+
 ----------------------------
 
-Aprendendo a codar desde 2021, apaixonado por desenvolvimento Back-End, com experiência em Spring Boot e Node.JS, e com experiência em Front-End, utilizando frameworks WEB como Angular e Vue.
+Learning how to code since 2021, passionate about Back-End development, with Back-End experience on Spring Boot and Node.JS, and Front-End experience on Javascript-based WEB Frameworks, such as Angular and Vue.
 
 * 🌍  I'm based in Betim-MG
 * ✉️  You can contact me at [juliocvsantos0@gmail.com](mailto:juliocvsantos0@gmail.com)
