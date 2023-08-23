@@ -9,7 +9,7 @@ Learning how to code since 2021, passionate about Back-End development, with Bac
 
 * 🌍  I'm based in Betim-MG
 * ✉️  You can contact me at [juliocvsantos0@gmail.com](mailto:juliocvsantos0@gmail.com)
-* 🧠  I'm learning Go, Vue and Fastify
+* 🧠  I'm learning React, Vue and Fastify
 
 ### Skills
 
